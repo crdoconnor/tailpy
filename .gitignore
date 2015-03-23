@@ -1,0 +1,8 @@
+setup.cfg
+.pypirc
+*.pyc
+build/
+tailpy.egg-info/
+dist/
+venv/
+key.py
